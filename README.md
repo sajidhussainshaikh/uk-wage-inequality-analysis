@@ -11,6 +11,10 @@ The central question: are sectors with higher AI and technology adoption seeing 
 - The highest wage growth sectors - computers, financial services, advertising – correlate with high AI adoption
 - The lowest wage growth sectors – catering, retail, manufacturing of physical goods – correlate with low AI adoption
 - The gap between the highest and lowest paid sectors in 7.5x
+### Charts
+- Wage growth winners and losers by sector (2025)
+- UK sectoral pay against national median (2025)
+- 10 of 20 broad sectors pay below the national median of £32,890
 
 ### Data Source
 Office for National Statistics – Annual Survey of Hours and Earnings (ASHE) 2025
