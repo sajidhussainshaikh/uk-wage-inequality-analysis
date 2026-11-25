@@ -1,3 +1,4 @@
+**How this was made:** A learning project. I wrote the Python code step by step with Claude's guidance, fixing errors it pointed out. I'm not a fluent Python programmer; the research questions, choice of ONS data and interpretation of the results are my own.
 # UK Wage Inequality Analysis 
 ## AI, Automation and the Divergence of UK Sectoral Pay – Evidence from ONS Data 2025 
 
